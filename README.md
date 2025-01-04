@@ -1,6 +1,6 @@
 # Regression
 
-Este repositório contém exemplos de aplicação dod algoritmos Linear e Logistic Regression em diferentes contextos. Esses algoritmos de aprendizado supervisionado são amplamente utilizado para regressão e classificação, respectivamente. Aqui, fornecemos implementações em Python usando a biblioteca `scikit-learn`.
+Este repositório contém exemplos de aplicação dos algoritmos Linear e Logistic Regression em diferentes contextos. Esses algoritmos de aprendizado supervisionado são amplamente utilizado para regressão e classificação, respectivamente. Aqui, fornecemos implementações em Python usando a biblioteca `scikit-learn`.
 
 ## Estrutura do Repositório
 
