@@ -5,7 +5,7 @@ Este repositório contém exemplos de aplicação dos algoritmos Linear e Logist
 ## Estrutura do Repositório
 
 - `datasets/` - Contém datasets utilizados nos exemplos.
-- `notebooks/` - Contém notebooks Jupyter com implementações detalhadas do SVM.
+- `notebooks/` - Contém notebooks Jupyter com implementações detalhadas do algoritmo.
 - `read.me/` - Contém arquivo read.me detalhando o repositório.
 
 ## Requisitos
